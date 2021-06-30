@@ -1,0 +1,37 @@
+.img-responsive{
+    width: 100%;
+    
+}
+.orange-text{
+    color: orange;
+}
+.card-footer{
+    background-color: white;
+    border: 0; 
+}
+.logo{
+    width: 30%;
+    height: auto;
+
+}
+ body{
+    font-family: 'Roboto', sans-serif;
+ }
+ .penguin-card{
+     border: 0;
+ }
+.banner{
+    background-color: #fceae8;
+    border-radius: 1em;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #ff5898 0%, #ff136f 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+h2{
+    color: navy;
+}
